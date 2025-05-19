@@ -106,8 +106,16 @@ server_socket.close()
 ```
 ## OUTPUT:
 CLIENT:
+
+
+
 ![439056853-72d24efd-377f-48e4-b2b1-00f6c165b176](https://github.com/user-attachments/assets/1e6ede4d-23dc-4580-a089-9ed5dfa35304)
+
+
+
+
 SERVER:
+
 ![439056910-fcf5b40a-6f3e-4558-90b1-64520089a909](https://github.com/user-attachments/assets/bec255ea-9e7c-40d3-b05a-84b6be3c7b6b)
 
 
